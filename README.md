@@ -2,7 +2,8 @@
 
  To run your query change the query in tester.cpp, for example 'What was Satyagraha Movement?'
  Also make sure to include you Chat GPT API key in qna_too.cpp file
- To complie, inculde all files in a single folder, you folder structure should be : 
+ 
+ # To complie, inculde all files in a single folder, you folder structure should be : 
          -DocGPT
               --All files, inculding .cpp and .h files
 	         - txtfiles folder, which contain processed corpora of books on Mahatma Gandhi
